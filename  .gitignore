@@ -1,0 +1,13 @@
+/.idea
+/venv/*
+/.env.*.local
+/.env.local
+__pycache__
+test_db.db
+/env/*
+/env/bin/
+/env/include/
+/env/lib/
+/env/lib64/
+/env/share/
+/env/pyvenv.cfg
