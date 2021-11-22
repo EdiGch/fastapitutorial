@@ -11,3 +11,6 @@ psycopg2-binary==2.9.2
 
 #for loading environment variables
 python-dotenv
+
+#for email validation
+pydantic[email]
