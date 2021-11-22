@@ -3,6 +3,8 @@ uvicorn
 
 #for template
 jinja2
+
+#for static files
 aiofiles
 
 #for database
@@ -17,3 +19,6 @@ pydantic[email]
 
 #hashing
 passlib[bcrypt]
+
+#seedir to print tree structure of folders
+seedir==0.2.0
