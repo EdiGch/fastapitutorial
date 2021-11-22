@@ -1,6 +1,13 @@
 fastapi
 uvicorn
 
-#for template  #new
+#for template
 jinja2
 aiofiles
+
+#for database
+sqlalchemy
+psycopg2-binary==2.9.2
+
+#for loading environment variables
+python-dotenv

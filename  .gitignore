@@ -11,3 +11,4 @@ test_db.db
 /env/lib64/
 /env/share/
 /env/pyvenv.cfg
+/backend/.env
